@@ -1,0 +1,413 @@
+Gene Group 1	Enrichment Score:  2.7536713932842005
+ID	Gene Name
+1743_s_at, 1866_g_at	SKI-like oncogene
+35160_at	LIM domain binding 1
+31353_f_at	forkhead box E1 (thyroid transcription factor 2)
+1994_at	activating transcription factor 2
+224_at, 38374_at	Kruppel-like factor 10
+36669_at	FBJ murine osteosarcoma viral oncogene homolog B
+39698_at	HOP homeobox
+41505_r_at	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+274_at	zinc finger protein 148
+41499_at	v-ski sarcoma viral oncogene homolog (avian)
+32928_at	POU class 2 homeobox 3
+40790_at	basic helix-loop-helix family, member e40
+31741_at	paired box 4
+41216_r_at	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein
+32872_at	transcription factor 4
+41387_r_at	lysine (K)-specific demethylase 6B
+789_at	early growth response 1
+41234_at	DnaJ (Hsp40) homolog, subfamily B, member 6
+
+Gene Group 2	Enrichment Score:  2.689218324139054
+ID	Gene Name
+32872_at	transcription factor 4
+1242_at	Ets2 repressor factor
+1774_at	MAX dimerization protein 1
+37418_at	POU class 2 homeobox 2
+38491_at	ets variant 6
+36226_r_at	splicing factor proline/glutamine-rich (polypyrimidine tract binding protein associated)
+40790_at	basic helix-loop-helix family, member e40
+36507_at	zinc finger protein 282
+36711_at	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+33539_at	myelin expression factor 2
+1244_at	signal transducer and activator of transcription 2, 113kDa
+287_at	activating transcription factor 3
+35992_at	musculin (activated B-cell factor-1)
+
+Gene Group 3	Enrichment Score:  2.6614933637361733
+ID	Gene Name
+1369_s_at, 35372_r_at	interleukin 8
+408_at	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)
+36103_at	chemokine (C-C motif) ligand 3
+32464_at	defensin, beta 4
+40385_at	chemokine (C-C motif) ligand 20
+36674_at	chemokine (C-C motif) ligand 4-like 1; chemokine (C-C motif) ligand 4-like 2
+875_g_at, 34375_at	chemokine (C-C motif) ligand 2
+
+Gene Group 4	Enrichment Score:  2.338256883346435
+ID	Gene Name
+32872_at	transcription factor 4
+41788_i_at	TSC22 domain family, member 2
+1242_at	Ets2 repressor factor
+274_at	zinc finger protein 148
+37418_at	POU class 2 homeobox 2
+31669_s_at	homeobox A11
+32364_at	SIX homeobox 6
+412_s_at	homeobox B6
+32928_at	POU class 2 homeobox 3
+31734_at	homeobox C11
+31741_at	paired box 4
+32696_at	pre-B-cell leukemia homeobox 3
+34165_at	NK2 homeobox 8
+
+Gene Group 5	Enrichment Score:  2.221121479245075
+ID	Gene Name
+37542_at	lipoma HMGIC fusion partner-like 2
+35957_at	stannin
+39519_at	ankyrin repeat and LEM domain containing 2
+41358_at	cyclin M2
+
+Gene Group 6	Enrichment Score:  2.1009495635257407
+ID	Gene Name
+224_at, 38374_at	Kruppel-like factor 10
+1388_g_at	vitamin D (1,25- dihydroxyvitamin D3) receptor
+32265_at	nuclear receptor subfamily 4, group A, member 1
+706_at	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+
+Gene Group 7	Enrichment Score:  1.9933334312522428
+ID	Gene Name
+1267_at	protein kinase C, eta
+1091_at	protein kinase, cAMP-dependent, regulatory, type I, beta
+38823_s_at	serine/threonine kinase 17a
+41657_at	serine/threonine kinase 11
+37111_g_at, 39522_at	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3
+37170_at	BMP2 inducible kinase
+34475_at	G protein-coupled receptor kinase 4
+1891_at	mitogen-activated protein kinase kinase kinase 8
+32379_f_at	similar to Pyruvate kinase, isozymes M1/M2 (Pyruvate kinase muscle isozyme) (Cytosolic thyroid hormone-binding protein) (CTHBP) (THBP1); pyruvate kinase, muscle
+41400_at	thymidine kinase 1, soluble
+2004_at	mitogen-activated protein kinase kinase kinase 1
+40792_s_at	triple functional domain (PTPRF interacting)
+35714_at	pyridoxal (pyridoxine, vitamin B6) kinase
+199_s_at	protein kinase N2
+1432_s_at	leukocyte receptor tyrosine kinase
+2043_s_at	breakpoint cluster region
+39175_at	phosphofructokinase, platelet
+40473_at	serine/threonine kinase 24 (STE20 homolog, yeast)
+32486_at	creatine kinase, muscle
+1007_s_at	discoidin domain receptor tyrosine kinase 1
+31562_at	G protein-coupled receptor kinase 1
+34226_at	mitogen-activated protein kinase kinase kinase kinase 5
+1602_at	protein kinase C, iota
+568_at	protein kinase, cAMP-dependent, catalytic, alpha
+37606_at	ketohexokinase (fructokinase)
+37629_at	casein kinase 2, alpha prime polypeptide
+31977_at	guanylate cyclase 2D, membrane (retina-specific)
+38654_at	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)
+
+Gene Group 8	Enrichment Score:  1.9773596918504017
+ID	Gene Name
+1750_at	phenylalanyl-tRNA synthetase, alpha subunit
+32486_at	creatine kinase, muscle
+40522_at	glutamate-ammonia ligase (glutamine synthetase)
+37662_at	ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, yeast)
+
+Gene Group 9	Enrichment Score:  1.7249510354647024
+ID	Gene Name
+33751_at	adaptor-related protein complex 3, sigma 2 subunit
+41598_at	SEC22 vesicle trafficking protein homolog B (S. cerevisiae)
+36173_r_at	adaptor-related protein complex 3, delta 1 subunit
+41550_at	RER1 retention in endoplasmic reticulum 1 homolog (S. cerevisiae)
+38685_at	syntaxin 12
+
+Gene Group 10	Enrichment Score:  1.718440802613224
+ID	Gene Name
+32872_at	transcription factor 4
+31353_f_at	forkhead box E1 (thyroid transcription factor 2)
+274_at	zinc finger protein 148
+41505_r_at	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+789_at	early growth response 1
+36018_at	SRY (sex determining region Y)-box 10
+32265_at	nuclear receptor subfamily 4, group A, member 1
+39421_at	runt-related transcription factor 1
+36999_at	lysine (K)-specific demethylase 5A
+1124_at	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)
+32928_at	POU class 2 homeobox 3
+40661_at	nuclear receptor subfamily 4, group A, member 3
+35848_at	zinc finger, MIZ-type containing 1
+
+Gene Group 11	Enrichment Score:  1.6214757887729851
+ID	Gene Name
+259_s_at, 1852_at	tumor necrosis factor (TNF superfamily, member 2)
+1548_s_at	interleukin 10
+1520_s_at, 39402_at	interleukin 1, beta
+
+Gene Group 12	Enrichment Score:  1.609503023133354
+ID	Gene Name
+36615_at	mesencephalic astrocyte-derived neurotrophic factor
+1332_f_at	chorionic somatomammotropin hormone 1 (placental lactogen)
+35915_at	inhibin, beta C
+887_at	growth differentiation factor 1; LAG1 homolog, ceramide synthase 1
+
+Gene Group 13	Enrichment Score:  1.5975426661156533
+ID	Gene Name
+32779_s_at	inositol 1,4,5-triphosphate receptor, type 1
+39242_at	synaptotagmin V
+38032_at	synaptic vesicle glycoprotein 2A
+
+Gene Group 14	Enrichment Score:  1.5439360592163645
+ID	Gene Name
+40210_at	RAB13, member RAS oncogene family; similar to hCG24991
+40098_at	EH-domain containing 1
+40669_at	RAB27A, member RAS oncogene family
+600_at	RAB5A, member RAS oncogene family
+
+Gene Group 15	Enrichment Score:  1.534646110448138
+ID	Gene Name
+1018_at	wingless-type MMTV integration site family, member 10B
+2030_at	wingless-type MMTV integration site family, member 11
+
+Gene Group 16	Enrichment Score:  1.5287180055032443
+ID	Gene Name
+34493_at	tumor necrosis factor receptor superfamily, member 10c, decoy without an intracellular domain
+35956_s_at	pregnancy specific beta-1-glycoprotein 7; pregnancy specific beta-1-glycoprotein 8; pregnancy specific beta-1-glycoprotein 4
+39757_at	syndecan 2
+41856_at	unc-5 homolog B (C. elegans)
+1237_at	immediate early response 3
+33665_s_at	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)
+32931_at	neural cell adhesion molecule 1
+33012_at	tumor necrosis factor (ligand) superfamily, member 8
+38018_g_at	CD79a molecule, immunoglobulin-associated alpha
+39753_at	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)
+32919_at	adhesion molecule with Ig-like domain 2
+37223_at	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)
+36651_at	acid phosphatase 2, lysosomal
+39748_at	solute carrier family 7 (cationic amino acid transporter, y+ system), member 1
+39071_at, 257_at	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)
+136_at	G protein-coupled receptor 31
+37233_at	oxidized low density lipoprotein (lectin-like) receptor 1
+37857_at	protocadherin 21
+833_at	integrin, alpha D
+33092_at	formyl peptide receptor 3
+2082_s_at	cadherin 1, type 1, E-cadherin (epithelial)
+38642_at	hypothetical protein LOC100133690; activated leukocyte cell adhesion molecule
+32699_s_at	poliovirus receptor
+33829_at	leptin receptor overlapping transcript
+31564_at	immunoglobulin heavy constant gamma 1 (G1m marker); immunoglobulin heavy constant mu; immunoglobulin heavy variable 3-7; immunoglobulin heavy constant gamma 3 (G3m marker); immunoglobulin heavy variable 3-11 (gene/pseudogene); immunoglobulin heavy variable 4-31; immunoglobulin heavy locus
+32186_at	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5
+38538_at	solute carrier family 24 (sodium/potassium/calcium exchanger), member 1
+2036_s_at, 31615_i_at, 1125_s_at	CD44 molecule (Indian blood group)
+35471_g_at	5-hydroxytryptamine (serotonin) receptor 2A
+38671_at	plexin D1
+32193_at	plexin C1
+33555_at	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 4
+36459_at	ectonucleotide pyrophosphatase/phosphodiesterase 4 (putative function)
+33143_s_at	solute carrier family 16, member 3 (monocarboxylic acid transporter 4)
+37889_at	CD47 molecule
+39841_at	solute carrier family 16, member 6 (monocarboxylic acid transporter 7); similar to solute carrier family 16, member 6
+31586_f_at	immunoglobulin kappa variable 1-5
+39424_at	tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)
+36728_at	adrenergic, alpha-1D-, receptor
+988_at	carcinoembryonic antigen-related cell adhesion molecule 1 (biliary glycoprotein)
+1569_r_at	interleukin 10 receptor, beta
+39586_at	desmoglein 1
+
+Gene Group 17	Enrichment Score:  1.4943841264517612
+ID	Gene Name
+33120_at	regulator of G-protein signaling 10
+41779_at	regulator of G-protein signaling 16
+
+Gene Group 18	Enrichment Score:  1.4675437855681546
+ID	Gene Name
+36161_at	adaptor-related protein complex 2, beta 1 subunit
+33751_at	adaptor-related protein complex 3, sigma 2 subunit
+32522_f_at	clathrin, light chain (Lcb)
+41159_at	clathrin, heavy chain (Hc)
+
+Gene Group 19	Enrichment Score:  1.4387620679778004
+ID	Gene Name
+40365_at	guanine nucleotide binding protein (G protein), alpha 15 (Gq class)
+1139_at	guanine nucleotide binding protein (G protein), alpha 13
+919_at	guanine nucleotide binding protein (G protein) alpha 12
+
+Gene Group 20	Enrichment Score:  1.426371163187165
+ID	Gene Name
+1270_at	RAP1 GTPase activating protein
+37831_at	signal-induced proliferation-associated 1 like 3
+
+Gene Group 21	Enrichment Score:  1.2949845116793928
+ID	Gene Name
+41438_at	oxysterol binding protein-like 8
+31888_s_at	pleckstrin homology-like domain, family A, member 2
+32007_at	oxysterol binding protein 2
+
+Gene Group 22	Enrichment Score:  1.2796411636736011
+ID	Gene Name
+40310_at	toll-like receptor 2
+34145_at	toll-like receptor 6
+
+Gene Group 23	Enrichment Score:  1.2770190015629428
+ID	Gene Name
+35776_at	intersectin 1 (SH3 domain protein)
+34712_at	dynamin binding protein
+
+Gene Group 24	Enrichment Score:  1.2701264078091583
+ID	Gene Name
+41726_at	endothelin converting enzyme 1
+35536_at	endothelin converting enzyme 2
+1167_s_at	matrix metallopeptidase 15 (membrane-inserted)
+
+Gene Group 25	Enrichment Score:  1.216956168610128
+ID	Gene Name
+38391_at	capping protein (actin filament), gelsolin-like
+36052_at	adducin 2 (beta)
+
+Gene Group 26	Enrichment Score:  1.2141839491144484
+ID	Gene Name
+274_at	zinc finger protein 148
+36960_at	polyhomeotic homolog 2 (Drosophila)
+789_at	early growth response 1
+35376_f_at	zinc finger protein 780A
+34562_at	zinc finger and BTB domain containing 6
+41532_at	zinc finger and BTB domain containing 17
+33288_i_at	zinc finger protein 263
+224_at, 38374_at	Kruppel-like factor 10
+33922_at	PR domain containing 2, with ZNF domain
+36507_at	zinc finger protein 282
+1994_at	activating transcription factor 2
+36669_at	FBJ murine osteosarcoma viral oncogene homolog B
+
+Gene Group 27	Enrichment Score:  1.1826608443105544
+ID	Gene Name
+471_f_at	tubulin, beta 3; melanocortin 1 receptor (alpha melanocyte stimulating hormone receptor)
+33346_r_at	tubulin, gamma 1; similar to Tubulin, gamma 1
+39331_at	tubulin, beta 2A
+
+Gene Group 28	Enrichment Score:  1.070322781304037
+ID	Gene Name
+37724_at, 1973_s_at, 1936_s_at	v-myc myelocytomatosis viral oncogene homolog (avian)
+1939_at	tumor protein p53
+
+Gene Group 29	Enrichment Score:  1.0537060693813534
+ID	Gene Name
+40840_at	peptidylprolyl isomerase F
+35345_at	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)
+
+Gene Group 30	Enrichment Score:  1.0421780820610311
+ID	Gene Name
+39870_at	RNA binding motif protein, X-linked-like 2
+1276_g_at	RNA binding protein with multiple splicing
+
+Gene Group 31	Enrichment Score:  1.0275097754568043
+ID	Gene Name
+1258_s_at	excision repair cross-complementing rodent repair deficiency, complementation group 4
+36519_at	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)
+
+Gene Group 32	Enrichment Score:  1.017405425250709
+ID	Gene Name
+1788_s_at	dual specificity phosphatase 4
+1005_at	dual specificity phosphatase 1
+1463_at	protein tyrosine phosphatase, non-receptor type 12
+
+Gene Group 33	Enrichment Score:  1.0052962476778986
+ID	Gene Name
+762_f_at, 31521_f_at	histone cluster 1, H4l; histone cluster 1, H4k; histone cluster 4, H4; histone cluster 1, H4h; histone cluster 1, H4j; histone cluster 1, H4i; histone cluster 1, H4d; histone cluster 1, H4c; histone cluster 1, H4f; histone cluster 1, H4e; histone cluster 1, H4b; histone cluster 1, H4a; histone cluster 2, H4a; histone cluster 2, H4b
+31522_f_at	histone cluster 1, H2bi; histone cluster 1, H2bg; histone cluster 1, H2be; histone cluster 1, H2bf; histone cluster 1, H2bc
+
+Gene Group 34	Enrichment Score:  0.9799209579563188
+ID	Gene Name
+35314_at	non-SMC condensin I complex, subunit D2
+37723_at	cyclin G2
+36055_at	KIAA0892
+33698_at	centrosomal protein 164kDa
+
+Gene Group 35	Enrichment Score:  0.8561181996742514
+ID	Gene Name
+38684_at	ATPase, Ca++ transporting, type 2C, member 1
+34857_at	ATPase type 13A3
+40913_at	ATPase, Ca++ transporting, plasma membrane 4
+37270_at	ATPase, Na+/K+ transporting, beta 2 polypeptide
+
+Gene Group 36	Enrichment Score:  0.8198297388681576
+ID	Gene Name
+41365_at	mucin 5B, oligomeric mucus/gel-forming
+32359_at	WNT1 inducible signaling pathway protein 1
+
+Gene Group 37	Enrichment Score:  0.7767085491998356
+ID	Gene Name
+1804_at	kallikrein-related peptidase 3
+719_g_at	HtrA serine peptidase 1
+37310_at	plasminogen activator, urokinase
+
+Gene Group 38	Enrichment Score:  0.7676404127065372
+ID	Gene Name
+967_g_at	RAD54-like (S. cerevisiae)
+41099_at	ligase III, DNA, ATP-dependent
+
+Gene Group 39	Enrichment Score:  0.7666280229258817
+ID	Gene Name
+37463_r_at	splicing factor 3a, subunit 2, 66kDa
+35440_g_at	splicing factor 1
+
+Gene Group 40	Enrichment Score:  0.7601288656260015
+ID	Gene Name
+40319_at	dynein, cytoplasmic 1, intermediate chain 1
+34294_at	kinesin family member C3
+164_at	guanine nucleotide binding protein (G protein), beta polypeptide 3
+
+Gene Group 41	Enrichment Score:  0.747601545602032
+ID	Gene Name
+39407_at	bone morphogenetic protein 1
+31859_at	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+1167_s_at	matrix metallopeptidase 15 (membrane-inserted)
+
+Gene Group 42	Enrichment Score:  0.7226647420515794
+ID	Gene Name
+37048_at	translocase of outer mitochondrial membrane 34
+37628_at	monoamine oxidase B
+
+Gene Group 43	Enrichment Score:  0.7064570702069498
+ID	Gene Name
+41106_at	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4
+34537_at	similar to hkir2.2x; similar to inward rectifying K+ channel negative regulator Kir2.2v; potassium inwardly-rectifying channel, subfamily J, member 12
+36285_at	potassium inwardly-rectifying channel, subfamily J, member 4
+35472_at	potassium inwardly-rectifying channel, subfamily J, member 15
+40954_at	FXYD domain containing ion transport regulator 2
+33545_at	sodium channel, voltage-gated, type IV, alpha subunit
+34981_at	potassium voltage-gated channel, shaker-related subfamily, member 5
+
+Gene Group 44	Enrichment Score:  0.705662137168174
+ID	Gene Name
+32645_at	hypothetical protein LOC100134230; similar to KIAA0454 protein; similar to phosphodiesterase 4D interacting protein isoform 2; phosphodiesterase 4D interacting protein
+33893_r_at	centrosomal protein 170kDa
+34688_at	calmodulin regulated spectrin-associated protein 1-like 1
+36479_at	growth arrest-specific 8
+41850_s_at	coiled-coil domain containing 85B
+
+Gene Group 45	Enrichment Score:  0.690885436771162
+ID	Gene Name
+36749_at	carboxypeptidase A3 (mast cell)
+35966_at	glutaminyl-peptide cyclotransferase
+
+Gene Group 46	Enrichment Score:  0.66155608189905
+ID	Gene Name
+37385_at	peptidylprolyl isomerase G (cyclophilin G)
+37506_at	PRP40 pre-mRNA processing factor 40 homolog A (S. cerevisiae)
+
+Gene Group 47	Enrichment Score:  0.6185817338263633
+ID	Gene Name
+35768_at	ring finger protein 40
+35500_at	BRCA1 associated protein
+
+Gene Group 48	Enrichment Score:  0.5218525846841717
+ID	Gene Name
+35726_at	S100 calcium binding protein A2
+34560_at	S100 calcium binding protein A5
+
+Gene Group 49	Enrichment Score:  0.32634782377816884
+ID	Gene Name
+40347_at	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E
+39448_r_at	leucine rich repeat containing 23
+35429_at	leucine rich repeat containing 48
+32062_at	leucine rich repeat containing 14

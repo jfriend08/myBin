@@ -1,0 +1,9 @@
+/home/ys486/bin/bin/pod_cover
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Coverage.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Coverage/CountParents.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Coverage/ExportOnly.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Coverage/Overloader.pm
+/home/ys486/bin/man/man3/Pod::Coverage.3
+/home/ys486/bin/man/man3/Pod::Coverage::CountParents.3
+/home/ys486/bin/man/man3/Pod::Coverage::ExportOnly.3
+/home/ys486/bin/man/man3/Pod::Coverage::Overloader.3

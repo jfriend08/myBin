@@ -1,0 +1,8 @@
+##fileformat=VCFv4.0
+##BIOR=<ID="bior.ToTJson",Operation="bior_vcf_to_tjson",DataType="JSON",ShortUniqueName="ToTJson">
+##BIOR=<ID="bior.gene37p10",Operation="bior_overlap",DataType="JSON",ShortUniqueName="gene37p10",Source="NCBIGene",Description="NCBI's Gene Annotation directly from the gbs file",Version="37p10",Build="GRCh37.p10",Path="/aslab_scratch001/asboner_dat/PeterTest/Annotation/BioR/NCBIGene/GRCh37_p10/genes.tsv.bgz">
+##BIOR=<ID="bior.gene37p10.GeneID",Operation="bior_drill",Field="GeneID",DataType="String",Number="1",FieldDescription="Entrez Gene ID",ShortUniqueName="gene37p10",Source="NCBIGene",Description="NCBI's Gene Annotation directly from the gbs file",Version="37p10",Build="GRCh37.p10",Path="/aslab_scratch001/asboner_dat/PeterTest/Annotation/BioR/NCBIGene/GRCh37_p10/genes.tsv.bgz">
+##BIOR=<ID="bior.gene37p10.gene",Operation="bior_drill",Field="gene",DataType="String",Number="1",FieldDescription="Official Gene Symbol provided by HGNC",ShortUniqueName="gene37p10",Source="NCBIGene",Description="NCBI's Gene Annotation directly from the gbs file",Version="37p10",Build="GRCh37.p10",Path="/aslab_scratch001/asboner_dat/PeterTest/Annotation/BioR/NCBIGene/GRCh37_p10/genes.tsv.bgz">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	bior.gene37p10.GeneID	bior.gene37p10.gene
+13	32907403	.	T	C	.	.	.	675	BRCA2
+15	3240324	.	N	C	.	.	.	.	.

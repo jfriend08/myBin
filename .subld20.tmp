@@ -1,0 +1,83 @@
+#!/bin/bash
+#SNP_new.sh 800 40 /zenodotus/sbonerlab/scratch/SoftTissues_MSKCC/ys486/samtools_snps/BCFfiles/ /zenodotus/sbonerlab/scratch/SoftTissues_MSKCC/ys486/samtools_snps/OUTfiles/
+Dval=$1
+Qval=$2
+BCFDIR=$3
+OUTDIR=$4
+# Dval=$3
+# Qval=$4
+printf "\nDval=$Dval\nQval=$Qval\nBCFDIR=<$BCFDIR>\nOUTDIR=<$OUTDIR>\n"
+[[ "${BCFDIR}" == "" ]] && [[ "${OUTDIR}" == "" ]] && [[ "${Dval}" == "" ]] && [[ "${Qval}" == "" ]] && exit
+
+# ####bam2bcfIII####
+# cd ./STAR
+# for i in $(ls -d *); do
+# if [ $i != "MRF" ]; then
+#     cd $i; printf "\n$i bam2bcfIII start\n"
+#     samtools mpileup -DSuf /pbtech_mounts/fdlab_store003/fdlab/genomes/human/hg19/genome/hg19_nh.fa ./"$i".sorted.bam | bcftools view -bvcg  -> ./"$i"_noT_noPairIII.bcf &
+#     cd ..
+# fi
+# done
+# wait
+# cd ..
+# printf "\n ================================ \n"
+# ####bcf quality filter####
+# cd ./STAR
+# for i in $(ls -d *); do
+# if [ $i != "MRF" ]; then
+#     cd $i; printf "\n$i quality filter start\n"
+#     NAME1="$i"_noT_noPairIII.bcf
+#     NAME2="$i"_noT_noPair_q"$Qval"_D"$Dval".vcf
+#     echo "NAME1 = $NAME1" ; echo "NAME2 = $NAME2"
+#     CON=-D"$Dval"; echo "CON = $CON"
+#     CON2=\$6">${Qval}"; echo "CON2 = $CON2"
+#     bcftools view "$NAME1"|gawk $(echo $CON2)|vcfutils.pl varFilter -D800 >./"$NAME2" &
+#     cd ..
+# fi
+# done
+# wait
+# cd ..
+
+# printf "\n ================================ \n"
+# ####variant_effect_predictor start####
+# cd ./STAR
+# for i in $(ls -d *); do
+# if [ $i != "MRF" ]; then
+#     cd $i;printf "\n$i variant_effect_predictor start\n"
+#     NAME2="$i"_noT_noPair_q"$Qval"_D"$Dval".vcf
+#     NAME3="$i"_noT_noPair_q"$Qval"_D"$Dval".txt    
+#     echo "NAME2 = $NAME2" ; echo "NAME3 = $NAME3"
+#     perl /home/ys486/software/VEP/ensembl-tools-release-75/scripts/variant_effect_predictor/variant_effect_predictor.pl -i ./"$NAME2"  -o ./"$NAME3" --cache --dir "/home/ys486/.vep" --offline --refseq --species "homo_sapiens" --sift b --everything --force_overwrite &
+#     cd ..
+# fi
+# done
+# wait
+# cd ..
+
+####variant_effect_predictor start####
+cd ./STAR
+for i in $(ls -d *); do
+if [ $i != "MRF" ]; then
+    cd $i;printf "\n$i variant_effect_predictor start\n"
+    NAME1="$i"_noT_noPairIII.bcf
+    NAME2="$i"_noT_noPair_q"$Qval"_D"$Dval".vcf
+    NAME3="$i"_noT_noPair_q"$Qval"_D"$Dval".txt
+    NAME4="$i"_noT_noPair_q"$Qval"_D"$Dval".txt_summary.html    
+    echo "NAME2 = $NAME2" ; echo "NAME3 = $NAME3" ; echo "NAME4 = $NAME4"
+    cp ./"$NAME1" ${BCFDIR} &
+    cp ./"$NAME2" ./"$NAME3" ./"$NAME4" ${OUTDIR} &
+    gzip ./"$NAME3"
+
+    cd ..
+fi
+done
+wait
+cd ..
+
+
+
+
+
+
+
+    

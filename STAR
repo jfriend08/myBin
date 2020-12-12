@@ -1,0 +1,1 @@
+/home/ys486/software/STAR.2.7.6a/STAR-2.7.6a/bin/Linux_x86_64/STAR

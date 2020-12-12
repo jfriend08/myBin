@@ -1,0 +1,17 @@
+/home/ys486/bin/bin/pod2man
+/home/ys486/bin/bin/pod2text
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Man.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/ParseLink.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Text.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Text/Color.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Text/Overstrike.pm
+/home/ys486/bin/lib/perl5/site_perl/5.28.1/Pod/Text/Termcap.pm
+/home/ys486/bin/man/man1/perlpodstyle.1
+/home/ys486/bin/man/man1/pod2man.1
+/home/ys486/bin/man/man1/pod2text.1
+/home/ys486/bin/man/man3/Pod::Man.3
+/home/ys486/bin/man/man3/Pod::ParseLink.3
+/home/ys486/bin/man/man3/Pod::Text.3
+/home/ys486/bin/man/man3/Pod::Text::Color.3
+/home/ys486/bin/man/man3/Pod::Text::Overstrike.3
+/home/ys486/bin/man/man3/Pod::Text::Termcap.3
